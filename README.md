@@ -1,1 +1,1 @@
-# Karpov-Course
+# Проекты по анализу данных в Jupyter Notebook
